@@ -1,4 +1,4 @@
-# Sesami Lock MitoLab
+# Sesami Lock
 
 自動施錠・解錠スケジューラー — Seeed XIAO ESP32C6 + DS1302 RTC + SESAME スマートロック
 
