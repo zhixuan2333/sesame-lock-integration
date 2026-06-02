@@ -1,4 +1,4 @@
-# Sesami Lock MitoLab
+# Sesami Lock
 
 Automatic lock/unlock scheduler — Seeed XIAO ESP32C6 + DS1302 RTC + SESAME smart lock
 
